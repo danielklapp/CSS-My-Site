@@ -42,7 +42,11 @@ a {
   text-decoration: none;
 }
 
-a:hover {
+.footer a {
+  margin: 0.625em 1.25em;
+}
+
+.footer a:hover {
   color: #eaf6f6;
 }
 
@@ -67,6 +71,10 @@ a:hover {
 }
 
 .pro {
+  text-decoration: underline;
+}
+
+.rammer {
   text-decoration: underline;
 }
 
@@ -111,16 +119,22 @@ a:hover {
   border-radius: 100%;
 }
 
-.computer-img {
+.programming-img {
   width: 25%;
   float: left;
   margin-right: 1.875rem;
 }
 
-.chilli-img {
+.computer-img {
   width: 25%;
   float: right;
   margin-left: 1.875rem;
+}
+
+.target-img {
+  width: 25%;
+  float: left;
+  margin-right: 1.875rem;
 }
 
 .btn {
