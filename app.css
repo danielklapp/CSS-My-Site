@@ -33,7 +33,7 @@ hr {
   border: dotted #eaf6f6 0.375rem;
   border-bottom: none;
   width: 4%;
-  margin: 6.25rem auto;
+  margin: 3.25rem auto;
 }
 
 a {
@@ -53,11 +53,11 @@ a {
 .top-container {
   background-color: #e4f9f5;
   position: relative;
-  padding-top: 6.25rem;
+  padding: 2.25rem;
 }
 
 .middle-container {
-  margin: 6.25rem 0;
+  margin: 3.25rem 0;
 }
 
 .bottom-container {
@@ -94,21 +94,9 @@ a {
   padding: 1.25rem 0;
 }
 
-.top-cloud {
-  position: absolute;
-  right: 18.75em;
-  top: 2.5rem;
-}
-
-.bottom-cloud {
-  position: absolute;
-  left: 15.625em;
-  bottom: 18.75rem;
-}
-
 .skill-row {
   width: 50%;
-  margin: 6.25rem auto 6.25rem auto;
+  margin: 3.25rem auto 3.25rem auto;
   padding: 0.25rem;
   text-align: left;
   line-height: 2;
